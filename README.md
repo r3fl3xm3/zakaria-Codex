@@ -1,6 +1,6 @@
 Follow me on instagram @eng_zakaria_karim , you need bypass EAC
 
-you need to update offset
+you need to update Offsets.h
 https://pastebin.com/ujQt6XR3
 
 
